@@ -10,3 +10,5 @@ jobs:
     steps:
       - name: 'Checkout codes' # 步骤一，获取仓库代码
         uses: actions/checkout@v1
+      - name: download
+        run: curl -o jiedian.txt https://config.v2cross.com/profilesv2/encryptcfg
