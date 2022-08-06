@@ -18,6 +18,7 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
+          pip install pycryptodomex
       - name: download
         run: curl -o ./jiedian0.txt https://config.v2cross.com/profilesv2/encryptcfg
       - name: jiemi1
