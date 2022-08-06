@@ -8,15 +8,17 @@ on:
 jobs:
   buzhou1:
     runs-on: ubuntu-latest # 运行环境为最新版的Ubuntu
-    steps: 
-      - uses: actions/checkout@v3     #git clone
-      - uses: actions/setup-node@v3   #Node.js环境
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v1
+      - name: 'Set up Python'
+        uses: actions/setup-python@v1
         with:
-          node-version: '16.x'        #Node.js 16.x
-      - uses: actions/setup-python@v4 #python环境
-        with:
-          python-version: '3.8'       #python 3.x
-          cache: 'pip'                #pip cache
+          python-version: '3.7'
+      - name: 'Install requirements'
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
       - name: Timezone #UTC+0 → UTC+8
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
       - name: pip
