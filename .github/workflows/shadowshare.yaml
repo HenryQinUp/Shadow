@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest # 运行环境为最新版的Ubuntu
     steps:
       - name: 'Checkout codes' # 步骤一，获取仓库代码
-        uses: actions/checkout@v1
+        uses: actions/checkout@v3
       - name: download
         run: curl -o ./jiedian.txt https://config.v2cross.com/profilesv2/encryptcfg
       - name: init
@@ -19,5 +19,5 @@ jobs:
            git config --local user.email "actions@github.com"
       - name: push
         run: | 
-           git pull origin main && git push origin main
+           git pull origin main && git add . && git commit -m "$(date '+%Y.%m.%d %H:%M:%S') 节点入库" && git push origin main
      
