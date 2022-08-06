@@ -8,14 +8,16 @@ jobs:
   buzhou1:
     runs-on: ubuntu-latest # 运行环境为最新版的Ubuntu
     steps:
+      - uses: actions/setup-python@v4 #python环境
+        with:
+          python-version: '3.x'       #python 3.x
+          cache: 'pip'                #pip cache
       - name: 'Checkout codes' # 步骤一，获取仓库代码
         uses: actions/checkout@v3
       - name: download
-        run: curl -o ./jiedian.txt https://config.v2cross.com/profilesv2/encryptcfg
+        run: curl -o ./jiedian0.txt https://config.v2cross.com/profilesv2/encryptcfg
       - name: jiemi1
-        run: openssl base64 -d -in ./jiedian.txt -out ./jiedian.txt
-      - name: jiemi
-        run: openssl enc  -aes-128-cbc -d -in ./jiedian.txt -out ./jiedian.txt -K 38596669513877726b7a695a35594661 -iv 30303030303030303030303030303030
+        run: python3 decode.py
       - name: init
         run: | 
            git config pull.rebase false
