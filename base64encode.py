@@ -6,5 +6,5 @@ with open("jiedian.txt") as f:
 data1 = data.encode('utf8')
 code = base64.b64encode(data1)
 data2 = code.decode('utf8')
-with open("jiedian.txt", "w") as out_file:
+with open("jiedian", "w") as out_file:
     out_file.write(data2)
