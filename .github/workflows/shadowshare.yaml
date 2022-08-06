@@ -17,6 +17,6 @@ jobs:
            git config pull.rebase false
            git config --local user.name "GitHub Actions"
            git config --local user.email "actions@github.com"
-      - run: | 
+        run: | 
            git pull origin main
      
