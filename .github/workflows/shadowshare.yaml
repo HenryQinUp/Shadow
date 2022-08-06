@@ -23,7 +23,7 @@ jobs:
       - name: jiemi1
         run: python3 decode.py
       - name: base64encode
-        run: openssl base64 -in ./jiedian.txt -out ./jiedian.txt
+        run: python3 base64encode.py
       - name: init
         run: | 
            git config pull.rebase false
