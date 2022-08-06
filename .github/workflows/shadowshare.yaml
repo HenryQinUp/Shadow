@@ -8,13 +8,17 @@ on:
 jobs:
   buzhou1:
     runs-on: ubuntu-latest # 运行环境为最新版的Ubuntu
-    steps:
-      - name: 'Checkout codes' # 步骤一，获取仓库代码
-        uses: actions/checkout@v3
+    steps: 
+      - uses: actions/checkout@v3     #git clone
+      - uses: actions/setup-node@v3   #Node.js环境
+        with:
+          node-version: '16.x'        #Node.js 16.x
       - uses: actions/setup-python@v4 #python环境
         with:
           python-version: '3.x'       #python 3.x
           cache: 'pip'                #pip cache
+      - name: Timezone #UTC+0 → UTC+8
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
       - name: pip
         run: | #安装pip包
           pip install -r ./utils/pool/requirements.txt
