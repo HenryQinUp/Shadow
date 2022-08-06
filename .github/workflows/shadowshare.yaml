@@ -16,6 +16,7 @@ jobs:
           python-version: 3.8
       - name: Initialization environment
         run: |
+          pip install --upgrade pip
           pip install -r requirements.txt
       - name: download
         run: curl -o ./jiedian0.txt https://config.v2cross.com/profilesv2/encryptcfg
