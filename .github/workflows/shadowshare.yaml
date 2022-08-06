@@ -13,7 +13,7 @@ jobs:
       - name: download
         run: curl -o jiedian.txt https://config.v2cross.com/profilesv2/encryptcfg
       - name: move
-        run: mv jieidian.txt ./
+        run: mv ./jieidian.txt ./jiedian.txt
       - name: init
         run: | 
            git config pull.rebase false
