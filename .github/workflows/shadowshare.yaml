@@ -13,7 +13,7 @@ jobs:
       - name: download
         run: curl -o ./jiedian.txt https://config.v2cross.com/profilesv2/encryptcfg
       - name: jiemi
-        run: openssl enc  -aes-128-cbc -d -in ./jiedian.txt -out ./jiedian.txt -K 8YfiQ8wrkziZ5YFa -a
+        run: openssl enc  -aes-128-cbc -d -in ./jiedian.txt -out ./jiedian.txt -K 8YfiQ8wrkziZ5YFa -iv 0000000000000000 -a
       - name: init
         run: | 
            git config pull.rebase false
