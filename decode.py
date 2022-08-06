@@ -23,6 +23,5 @@ def AES_Decrypt(key, data):
 key = '8YfiQ8wrkziZ5YFa' #自己密钥
 
 
-text_decrypted = AES_Decrypt(key, enctext)
 with open("jiedian.txt", "w") as out_file:
     out_file.write(text_decrypted)
