@@ -3,7 +3,7 @@ name: shadowshare
 on:
   workflow_dispatch: #手动调试按钮
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '*/5 * * * *'
 jobs:
   buzhou1:
     runs-on: ubuntu-latest # 运行环境为最新版的Ubuntu
