@@ -6,27 +6,17 @@ on:
   schedule:
     - cron: '*/180 * * * *'
 jobs:
-  buzhou1:
+  job1:
     runs-on: ubuntu-latest # 运行环境为最新版的Ubuntu
     steps:
-      - name: 'Checkout codes'
-        uses: actions/checkout@v1
       - uses: actions/checkout@v2
-      - name: Set up Python 3.8
+      - name: Install Python 3.8
         uses: actions/setup-python@v2
         with:
           python-version: 3.8
-      - name: Install dependencies
+      - name: Initialization environment
         run: |
-          python -m pip install --upgrade pip
-          pip install flake8 pytest
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: Timezone #UTC+0 → UTC+8
-        run: sudo timedatectl set-timezone 'Asia/Shanghai'
-      - name: pip
-        run: | #安装pip包
-          pip install -r ./utils/pool/requirements.txt
-          pip install -r ./utils/clashcheck/requirements.txt
+          pip install -r requirements.txt
       - name: download
         run: curl -o ./jiedian0.txt https://config.v2cross.com/profilesv2/encryptcfg
       - name: jiemi1
