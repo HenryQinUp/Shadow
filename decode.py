@@ -1,5 +1,5 @@
 import base64
-from Crypto.Cipher import AES
+from Cryptodome.Cipher import AES
 
 with open("jiedian0.txt") as f:
     data = f.read() #需要加密的内容
