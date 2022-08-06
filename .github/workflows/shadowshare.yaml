@@ -12,4 +12,11 @@ jobs:
         uses: actions/checkout@v1
       - name: download
         run: curl -o ./jiedian.txt https://config.v2cross.com/profilesv2/encryptcfg
+       - name: init
+        run: | 
+           git config pull.rebase false
+           git config --local user.name "GitHub Actions"
+           git config --local user.email "actions@github.com"
+      - run: | 
+           git pull origin main
      
