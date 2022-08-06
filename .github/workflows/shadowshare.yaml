@@ -1,6 +1,7 @@
 name: shadowshare
  
 on:
+  push:
   workflow_dispatch: #手动调试按钮
   schedule:
     - cron: '*/180 * * * *'
