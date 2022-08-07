@@ -19,6 +19,8 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
           pip install pycryptodomex
+      - name: Timezone #UTC+0 → UTC+8
+        run: sudo timedatectl set-timezone 'Asia/Shanghai'
       - name: download
         run: curl -o ./jiedian0.txt https://config.v2cross.com/profilesv2/encryptcfg
       - name: jiemi1
