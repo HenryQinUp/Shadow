@@ -72,7 +72,7 @@ trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?security=tls&type
 trojan://fcf74125-99de-4df3-af94-552a0b1ee021@tw2.microsoft-orgwly.vip:80?type=tcp&security=tls&sni=tls.microsoft-orgwly.vip&allowInsecure=1#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
 trojan://de32b9aa-c60d-4e76-8d7e-aae3cfb94a82@fscus.fscloud123456789.com:443?type=tcp&security=tls&allowInsecure=1#%E7%BE%8E%E5%9B%BD+Microsoft%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://6cc96992-cfab-48ca-9e16-963c4a0aa585@bgptw3.cnamazon.sbs:443?peer=tlsdata.cnamazon.sbs&tfo=1#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
-trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@bgptw5.cnamazon.sbs:443#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
+trojan://3e7ad819-03dd-46e1-8292-116fd2cea1c2@bgptw5.cnamazon.sbs:443#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82+scloud.sg
 trojan://ad7a2d36-d27b-411e-8e2f-41fea06ef00f@usa.stablize.top:443#%E7%BE%8E%E5%9B%BD+%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6Level3%E9%80%9A%E4%BF%A1%28DIA%29
 trojan://c4af9494-3e19-4f09-9693-1a18e28b441f@kr3.microsoft-orgwly.vip:443?sni=tls.microsoft-orgwly.vip#%E6%97%A5%E6%9C%AC+V2CROSS.COM
 trojan://29645da0-a43a-4ec4-95a1-57eb5e92be44@kr1.microsoft-orgwly.vip:443#%E6%97%A5%E6%9C%AC+V2CROSS.COM
