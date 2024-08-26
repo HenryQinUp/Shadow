@@ -152,7 +152,7 @@ trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12069?sni=cdn.aliba
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12034?allowInsecure=1&sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12033?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12032?allowInsecure=1&sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
-trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn1.cdn.xfltd-cdn.top:12005#%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%A7%BB%E5%8A%A8
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn1.cdn.xfltd-cdn.top:12005#%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%A6%E6%B1%89%E5%B8%82+%E8%81%94%E9%80%9A
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12023?allowInsecure=1&sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
 trojan://tg-dns68@152.70.245.66:12693?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fproxyip%3Dproxyip.us.fxxk.dedyn.io&fp=randomized&alpn=h3#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12067?sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
