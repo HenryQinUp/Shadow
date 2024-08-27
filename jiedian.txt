@@ -165,7 +165,7 @@ vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRo
 vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgRmFzdGx5XHU1MTY4XHU3NDAzQW55Y2FzdFx1ODI4Mlx1NzBiOSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNzc4NDg4MjQtOTNiNy00Yjg5LWZmZDAtZTkxYWZmZjQwNmNlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInpoZXNoaXNjcC5jb20iLCAicGF0aCI6ICIvNzc4NDg4MjQiLCAidGxzIjogInRscyJ9
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12032?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12051?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12064?allowInsecure=1&sni=cdn.alibaba.com#%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%A6%E6%B1%89%E5%B8%82+%E8%81%94%E9%80%9A
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12064?allowInsecure=1&sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12072?allowInsecure=1&sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12006#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://telegram-id-privatevpns@52.29.45.3:22222?sni=trojan.burgerip.co.uk#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
@@ -182,7 +182,7 @@ trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12072?sni=cdn.aliba
 trojan://telegram-id-privatevpns@3.77.142.1:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12031?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12041?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12023?allowInsecure=0&sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12023?allowInsecure=0&sni=cdn.alibaba.com#%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%A6%E6%B1%89%E5%B8%82+%E8%81%94%E9%80%9A
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12004?allowInsecure=0&sni=cn1.cdn.xfltd-cdn.top#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://tg-dns68@152.70.245.66:12693?security=tls&type=ws&sni=vip.putata.eu.org&path=/?proxyip=proxyip.us.fxxk.dedyn.io&host=vip.putata.eu.org#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12032?allowInsecure=1&sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
@@ -191,4 +191,4 @@ trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12023?sni=cdn.aliba
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12064?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://telegram-id-privatevpns@35.178.47.190:22222?sni=trojan.burgerip.co.uk#%E8%8B%B1%E5%9B%BD+%E4%BC%A6%E6%95%A6Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://telegram-id-directvpn@18.199.243.46:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12051?allowInsecure=1&sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12051?allowInsecure=1&sni=cdn.alibaba.com#%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%A6%E6%B1%89%E5%B8%82+%E8%81%94%E9%80%9A
