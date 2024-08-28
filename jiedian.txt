@@ -238,4 +238,4 @@ trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12004?sni=cn1.cdn.x
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12073?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12001?sni=cn1.cdn.xfltd-cdn.top#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12065?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12068?allowInsecure=1&sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12068?allowInsecure=1&sni=cdn.alibaba.com#%E6%B9%96%E5%8C%97%E7%9C%81%E6%AD%A6%E6%B1%89%E5%B8%82+%E8%81%94%E9%80%9A
