@@ -62,7 +62,7 @@ trojan://tg-dns68@162.159.152.230:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12073?sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12064?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://CMLiu@38.207.164.31:32828?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
-trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12051?sni=cdn.alibaba.com#%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%A7%BB%E5%8A%A8
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12051?sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12071?sni=cdn.alibaba.com&allowInsecure=1#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://CMLiu@154.17.22.88:30861?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12067?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
@@ -72,7 +72,7 @@ trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn1.cdn.xfltd-cdn.top:12005#%E5%AE
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12066?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12070?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12022?sni=cdn.alibaba.com&allowInsecure=1#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
-trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12064?sni=cdn.alibaba.com#%E4%B8%AD%E5%9B%BD+%E9%98%BF%E9%87%8C%E4%BA%91
+trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@cn2.cdn.xfltd-cdn.top:12064?sni=cdn.alibaba.com#%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%A7%BB%E5%8A%A8
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12069?sni=cdn.alibaba.com#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
 trojan://CMLiu@2.59.151.85:48333?allowInsecure=1&sni=aliorg.filegear-sg.me&type=ws&host=aliorg.filegear-sg.me&path=/?ed=2048#%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%88%A9%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6+V2CROSS.COM
 trojan://3698a3e7-2877-4ded-a665-d81ee3cfd449@82.117.226.218:12003#%E4%B9%8C%E5%85%8B%E5%85%B0+V2CROSS.COM
