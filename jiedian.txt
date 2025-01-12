@@ -101,4 +101,4 @@ trojan://SSorg@108.165.152.80:2083?allowInsecure=0&sni=sstjj.esslh.filegear-sg.m
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443?allowInsecure=0&sni=sg02.trojanyyds.xyz#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%B8%82%E4%BA%9A%E9%A9%AC%E9%80%8A%28Amazon%29%E5%85%AC%E5%8F%B8%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://34ec6bdf-602c-4bbe-933a-5c0823524201@103.152.164.39:443#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
 trojan://3753679206639476736@43.200.133.247:443?security=tls&sni=powerful-hen.boa152.lol&type=tcp&allowInsecure=1#%E6%97%A5%E6%9C%AC+V2CROSS.COM
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw02.trojanyyds.xyz:443?peer=tw02.trojanyyds.xyz&tfo=1#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%B8%82%E4%BA%9A%E9%A9%AC%E9%80%8A%28Amazon%29%E5%85%AC%E5%8F%B8%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@tw02.trojanyyds.xyz:443?peer=tw02.trojanyyds.xyz&tfo=1#%E7%BE%8E%E5%9B%BD+%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7
