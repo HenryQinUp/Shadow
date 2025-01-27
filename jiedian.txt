@@ -78,6 +78,6 @@ trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@cmc1.5gsieuvip.vn:443?sni=cmc1.5gs
 trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443#%E7%BE%8E%E5%9B%BD+%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7
 trojan://3763495894587285504@right-goldfish.goat627.mom:443?sni=right-goldfish.goat627.mom#%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A+V2CROSS.COM
 trojan://3763495894587285504@honest-cow.goat627.mom:443?sni=honest-cow.goat627.mom#%E6%B3%95%E5%9B%BD+%E5%B7%B4%E9%BB%8EAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@uk01.trojanyyds.xyz:443#%E7%BE%8E%E5%9B%BD+%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@uk01.trojanyyds.xyz:443#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
 trojan://5f7be901-1bb7-4cc5-9c7d-e33bd7e407ad@103.173.66.192:443?security=tls&sni=cmc1.5gsieuvip.vn&type=tcp#%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us02.trojanyyds.xyz:443#%E7%BE%8E%E5%9B%BD+%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us02.trojanyyds.xyz:443#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
