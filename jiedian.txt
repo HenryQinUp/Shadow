@@ -95,11 +95,11 @@ vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgRmFzdGx5
 trojan://3763495894587285504@89.39.70.207:443?sni=pet-bulldog.goat627.mom#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
 trojan://3763495982449565696@closing-phoenix.goat627.mom:443?sni=closing-phoenix.goat627.mom#%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A+V2CROSS.COM
 trojan://3763495894587285504@sensible-crow.goat627.mom:443?sni=sensible-crow.goat627.mom#%E5%8C%88%E7%89%99%E5%88%A9+V2CROSS.COM
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC+%E5%A4%A7%E9%98%AAAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443#%E7%BE%8E%E5%9B%BD+%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@hk03.trojanyyds.xyz:443#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@sg02.trojanyyds.xyz:443#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
 trojan://3763495894587285504@62.112.221.46:443?sni=enabling-cat.goat627.mom#%E5%8C%88%E7%89%99%E5%88%A9+V2CROSS.COM
 trojan://3763495982449565696@109.61.16.83:443?sni=sensible-crow.goat627.mom#%E5%8C%88%E7%89%99%E5%88%A9+V2CROSS.COM
 trojan://3763495894587285504@46.229.253.79:443?sni=right-goldfish.goat627.mom#%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A+V2CROSS.COM
 trojan://3763495894587285504@honest-cow.goat627.mom:443?sni=honest-cow.goat627.mom#%E6%B3%95%E5%9B%BD+%E5%B7%B4%E9%BB%8EAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us01.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC+%E5%A4%A7%E9%98%AAAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@us01.trojanyyds.xyz:443#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
 trojan://3763495894587285504@pet-bulldog.goat627.mom:443?sni=pet-bulldog.goat627.mom#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
