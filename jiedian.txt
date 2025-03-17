@@ -85,7 +85,7 @@ trojan://telegram-id-privatevpns@3.64.218.59:22222?security=tls&sni=trojan.burge
 trojan://DEzpFlNpZCTT7RyZzuAYSnDxA33SyClFpyY3RYaS3O2q8gEXA8lO90xDaAw2YjpBC7cx0@orlang.protocolbuffer.com:18331?sni=orlang.protocolbuffer.com#%E7%BE%8E%E5%9B%BD+Xerox
 trojan://63ZE5R8ZCTAKD8RS9Dy2cIwCT8N9pFCx3aYD3YOxOz3Yex6SpjRl0uqZDcFa3Aa4DnRSF@briefly.protocolbuffer.com:18331?sni=briefly.protocolbuffer.com#%E6%96%B0%E5%8A%A0%E5%9D%A1+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://33fe5d7f-c9c1-4fd3-a2db-d0f3db6e5fba@15.204.58.214:443?security=tls&sni=tro-us02.gproxy.gratis&type=tcp#%E7%BE%8E%E5%9B%BD+%E6%83%A0%E6%99%AEHP
-trojan://b44da489-fc70-4fd0-8997-a83b51f59267@us004.421421.xyz:20230#%E7%BE%8E%E5%9B%BD+%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%E6%B3%A2%E7%89%B9%E5%85%B0Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+trojan://b44da489-fc70-4fd0-8997-a83b51f59267@us004.421421.xyz:20230#%E5%BE%B7%E5%9B%BD+V2CROSS.COM
 trojan://telegram-id-privatevpns@18.135.212.25:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%E7%BE%8E%E5%9B%BD+%E9%BA%BB%E7%9C%81%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2
 trojan://Au8FD7eTewSu46Y3xa90ZB3YxeYg3COORSapYaRl4DEDIl3A9Z8yCDj8gnyACSxSKx3Z6@derrick.meijireform.com:28335?sni=derrick.meijireform.com#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://telegram-id-privatevpns@34.247.145.6:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#%E7%88%B1%E5%B0%94%E5%85%B0+%E9%83%BD%E6%9F%8F%E6%9E%97Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
