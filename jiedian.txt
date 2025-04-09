@@ -73,6 +73,6 @@ trojan://74260698218909400@109.107.159.124:443?allowInsecure=0&sni=ample-warthog
 trojan://89c1aea7-4d0d-4013-b663-0f94a3e6bdbd@104.21.58.135:443?security=tls&sni=sanjose01.818185.xyz&type=ws&host=sanjose01.818185.xyz&path=%2FT5yZBrY2Qkg2cThJQeJb&fp=chrome&alpn=http%2F1.1#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 trojan://amclubs@156.238.19.69:2096?security=tls&sni=tran.amclubstest.nyc.mn&type=ws&host=tran.amclubstest.nyc.mn&path=%2F%3Fed%3D2560#%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6+Cloudinnovation%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://telegram-id-directvpn@35.156.110.36:22222?security=tls&sni=trojan.burgerip.co.uk#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@jp005.421421.xyz:20230#%E6%97%A5%E6%9C%AC+V2CROSS.COM
+trojan://5c7dbef8-0fb5-4e88-bb84-24cafeb73f8d@jp005.421421.xyz:20230#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443?security=tls&sni=golinkwuxian.top&type=ws&host=8888.golinkwuxian.top&path=%2Fapple&allowInsecure=1#%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0+V2CROSS.COM
 trojan://telegram-id-privatevpns@15.188.183.0:22222?security=tls&sni=trojan.burgerip.co.uk#%E6%B3%95%E5%9B%BD+%E5%B7%B4%E9%BB%8EAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
