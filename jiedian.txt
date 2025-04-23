@@ -108,7 +108,7 @@ trojan://94308660-8f30-42cc-8c6f-93bd9780106b@45.146.232.173:27101?sni=q08m.vgra
 trojan://fe966b1a-3db5-442b-b64d-06650137f489@sla.cn.964e995b760.gogodns.xin:43498?sni=q08m.vgraxiw73s.hasyaf.cn#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%94%B5%E4%BF%A1
 trojan://3828095943467868160@humble-shad.dolphin109.quest:443?allowInsecure=1&sni=humble-shad.dolphin109.quest#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
 trojan://3828095943467868160@modest-firefly.dolphin109.quest:443?allowInsecure=1&sni=modest-firefly.dolphin109.quest#%E5%9C%9F%E8%80%B3%E5%85%B6+V2CROSS.COM
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?allowInsecure=0&sni=hk-13-568.flztjc.net#%E5%B9%BF%E4%B8%9C%E7%9C%81+%E7%94%B5%E4%BF%A1
+trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?allowInsecure=0&sni=hk-13-568.flztjc.net#%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%9C%E8%8E%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 trojan://3828095943467868160@choice-gar.dolphin109.quest:443?sni=choice-gar.dolphin109.quest#%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A+V2CROSS.COM
 trojan://5453ae26-250d-4e79-b4ec-016baf806865@104.21.69.41:443?sni=1SdfghJk.890602.xyz&type=ws&host=1SdfghJk.890602.xyz&path=/OYzPAeaZdXUq2d6J3gc4aj#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 trojan://3828095943467868160@poetic-coral.dolphin109.quest:443?sni=poetic-coral.dolphin109.quest#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
