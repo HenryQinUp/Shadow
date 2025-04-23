@@ -101,7 +101,7 @@ trojan://3828095943467868160@85.234.65.100:443?sni=handy-sparrow.dolphin109.ques
 trojan://3828095943467868160@stable-labrador.dolphin109.quest:443?allowInsecure=1&sni=stable-labrador.dolphin109.quest#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
 trojan://3828095943467868160@103.106.231.55:443?sni=closing-longhorn.dolphin109.quest#%E5%8D%B0%E5%BA%A6+V2CROSS.COM
 trojan://telegram-id-privatevpns@18.168.177.136:22222?security=tls&sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
-trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?allowInsecure=0&sni=hk-13-568.flztjc.net#%E6%97%A5%E6%9C%AC+V2CROSS.COM
+trojan://2c605663-b89a-5734-a9d6-97d4743d72cf@dozo01.flztjc.top:8313?allowInsecure=0&sni=hk-13-568.flztjc.net#%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%9C%E8%8E%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 trojan://9672247e-c003-4464-8bd9-4f16b0e7d032@sla.cn.964e995b760.gogodns.xin:33505?sni=q08m.vgraxiw73s.hasyaf.cn#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%94%B5%E4%BF%A1
 trojan://30665d14-4a0a-4e41-960e-db36f1603b1c@45.146.232.173:27202?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 trojan://3828095943467868160@109.104.153.229:443?sni=exotic-wahoo.dolphin109.quest#%E9%98%BF%E5%B0%94%E5%B7%B4%E5%B0%BC%E4%BA%9A+V2CROSS.COM
