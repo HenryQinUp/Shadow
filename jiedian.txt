@@ -41,4 +41,4 @@ trojan://telegram-id-directvpn@15.188.162.245:22223?security=tls&alpn=http/1.1&h
 trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@05.tokyometropolis.kiev.ua:2053?sni=45.32.28.232#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%94%B5%E4%BF%A1
 trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
 trojan://26635779-8ce6-4c07-ae5d-f3769ec95ddd@green2.cdntencentmusic.com:35502?security=tls&sni=green2.cdntencentmusic.com#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E4%B8%AD%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a03.taipeicitygovernment.cn.ua:3462?security=tls&sni=45.32.28.232#%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%B0%E5%8C%97%E5%B8%82+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@a03.taipeicitygovernment.cn.ua:3462?security=tls&sni=45.32.28.232#%E5%8F%B0%E6%B9%BE%E7%9C%81+%E4%B8%AD%E5%8D%8E%E7%94%B5%E4%BF%A1
