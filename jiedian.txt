@@ -24,5 +24,5 @@ trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?sni=ya.ru#%E5%8A%A0%
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@my01.jsylianjie6.com:45720?sni=jsygouer.weixin-baidu-qq.com#%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%B9%BF%E5%85%83%E5%B8%82+%E7%A7%BB%E5%8A%A8
 trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@vn01.jsylianjie6.com:40511?sni=jsygouer.weixin-baidu-qq.com#%E5%9B%9B%E5%B7%9D%E7%9C%81%E5%B9%BF%E5%85%83%E5%B8%82+%E7%A7%BB%E5%8A%A8
-trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?sni=jsygouer.weixin-baidu-qq.com#%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%B1%9F%E9%97%A8%E5%B8%82+%E7%A7%BB%E5%8A%A8
+trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?sni=jsygouer.weixin-baidu-qq.com#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click#%E8%A5%BF%E7%8F%AD%E7%89%99+V2CROSS.COM
