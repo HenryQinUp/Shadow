@@ -22,7 +22,7 @@ vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@188.114.97.6:443?encryption=none&ty
 vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.50:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.172.11:80?type=ws&host=Fastapi.Org&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.12.11:80?type=ws&host=Fastapi.Org&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?fp=chrome&security=tls&sni=149.104.104.58&type=tcp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.142:443?security=tls&headerType=none&type=tcp#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
 trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+V2CROSS.COM
