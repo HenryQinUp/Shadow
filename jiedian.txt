@@ -11,11 +11,11 @@ vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?path=/sg-amz&securi
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.184.11:80?type=ws&host=Fastapi.Org&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@120.55.183.176:443?encryption=none&security=tls&sni=support.zoom.us.yxls.eu.cc&insecure=1&allowInsecure=1&type=ws&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-melbi#%E6%B5%99%E6%B1%9F%E7%9C%81%E6%9D%AD%E5%B7%9E%E5%B8%82+%E9%98%BF%E9%87%8C%E4%BA%91BGP%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.132.11:80?type=ws&host=Fastapi.Org&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.31.11:80?type=ws&host=Fastapi.Org&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.224.11:80?type=ws&host=Fastapi.Org&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@gr1.fifapes.monster:8882?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&security=none&type=tcp&headerType=http&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&path=%2F#%E4%BC%8A%E6%9C%97+V2CROSS.COM
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.48.11:80?type=ws&host=Fastapi.Org&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.56.11:80?type=ws&host=Fastapi.Org&path=/#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.236.11:80?type=ws&host=Fastapi.Org&path=/#%E6%8C%AA%E5%A8%81+%E5%A5%A5%E6%96%AF%E9%99%86Fastly%E8%8A%82%E7%82%B9
