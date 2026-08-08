@@ -21,7 +21,7 @@ trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20088?sec
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com#%E8%8B%B1%E5%9B%BD+Technicolor+SA
 trojan://S.ibYdZshHTF-ne.M+.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&sni=149.104.104.58&type=tcp#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
 trojan://41c406e2-12b5-41f2-a329-d0621052d675@oplosgru-c.catcat321.com:20034?allowInsecure=0&security=tls&sni=hk.catxstar.com#%E8%8B%B1%E5%9B%BD+Technicolor+SA
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-002.fastervpn.world#%E7%BE%8E%E5%9B%BD+%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%E6%B3%A2%E7%89%B9%E5%85%B0Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-us-002.fastervpn.world:443?insecure=1&security=tls&sni=vpn-us-002.fastervpn.world#%E7%BE%8E%E5%9B%BD+Merit%E7%BD%91%E7%BB%9C%E5%85%AC%E5%8F%B8
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@44.251.47.95:443?insecure=1&security=tls&sni=vpn-us-002.fastervpn.world#%E7%BE%8E%E5%9B%BD+%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%E6%B3%A2%E7%89%B9%E5%85%B0Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&security=tls&sni=vpn-us-002.fastervpn.world#%E7%BE%8E%E5%9B%BD+%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%E6%B3%A2%E7%89%B9%E5%85%B0Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@35.87.211.237:443?insecure=1&security=tls&sni=vpn-us-002.fastervpn.world#%E7%BE%8E%E5%9B%BD+Merit%E7%BD%91%E7%BB%9C%E5%85%AC%E5%8F%B8
