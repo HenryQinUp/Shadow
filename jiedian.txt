@@ -39,7 +39,7 @@ vless://03707fb7-0990-440f-88f6-b0e0f7242a38@104.16.75.68:443?security=tls&type=
 vless://612f78a0-65ca-45af-a3ff-7d0f8e9f8655@cf3.466688.xyz:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net@https://t.me/QiangLieTuiJian&host=broken-star-c5ae.446.workers.dev&packetEncoding=xudp&encryption=none#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 vless://1bc380b1-cff7-446f-b13f-5c0ad29fc75a@172.67.118.45:443?security=tls&type=ws&path=/&host=zero.csmaster.ggff.net&packetEncoding=xudp&sni=zero.csmaster.ggff.net&fp=chrome#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 vless://0afc6426-606c-48e7-bd70-3c424a416842@61.145.123.58:58011?encryption=none#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82+%E7%94%B5%E4%BF%A1IDC%E6%9C%BA%E6%88%BF%28%E6%A0%A1%E5%9C%BA%E8%A5%BF%29
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&headerType=&type=tcp&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD+%E6%96%B0%E6%B3%BD%E8%A5%BF%E5%B7%9E%28Merck%E5%85%AC%E5%8F%B8%29
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&headerType=&type=tcp&sni=www.nintendogames.net#%E6%B3%A2%E5%85%B0+V2CROSS.COM
 trojan://humanity@104.18.152.144:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 trojan://humanity@8.6.112.0:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment&Host=www.ignitelimit.com#%E7%BE%8E%E5%9B%BD+%E5%BE%97%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E%E8%BE%BE%E6%8B%89%E6%96%AFCloudflare+Warp%E8%8A%82%E7%82%B9
